@@ -25,6 +25,8 @@ function Toggle(props) {
       {content}
     </Select>
   );
+
+  /* git training */
 }
 
 Toggle.propTypes = {
