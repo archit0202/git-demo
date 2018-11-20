@@ -28,5 +28,7 @@ const GlobalStyle = createGlobalStyle`
   }
 `;
 
+
 console.log('let have conflict');
+console.log('change-5');
 export default GlobalStyle;
