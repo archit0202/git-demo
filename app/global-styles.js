@@ -28,4 +28,5 @@ const GlobalStyle = createGlobalStyle`
   }
 `;
 
+console.log('change-2');
 export default GlobalStyle;
